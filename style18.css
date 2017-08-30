@@ -1,0 +1,77 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	max-width: 900px;
+	margin:auto;
+	font-family: sans-serif;
+}
+
+label {
+	 float: left; 
+	width: 10em; 
+	margin-right: 1em;
+ }
+
+.padding{
+	padding:5px 30px;
+	border-radius: 3px;
+}
+
+.float_left{
+	float: left;
+	clear: both;
+}
+
+.float_right{
+	float: right;
+}
+.maindiv{
+	border:1px solid #ccf2ff;
+	margin: 50px 100px;
+	border-radius: 5px;
+	
+}
+.heading{
+	background-color: #ccf2ff;
+	padding: 20px;
+
+}
+form{
+		padding:40px;
+
+}
+
+.backgroundcolor_bx1{
+padding: 10px 15px 11px !important;
+font-size: 15px !important;
+background-color: #80bfff;
+font-weight: bold;
+color: #ffffff;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border: 1px solid #57D6C7;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+
+.backgroundcolor_bx2{
+padding: 10px 15px 11px !important;
+font-size: 15px !important;
+background-color: #0066cc;
+font-weight: bold;
+color: #ffffff;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border: 1px solid #57D6C7;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+
